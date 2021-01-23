@@ -1,0 +1,15 @@
+{
+  "name": "IsBernieSoldOut",
+  "version": "1.0.0",
+  "description": "I want the meme sweater",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Eugene Vedensky",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
